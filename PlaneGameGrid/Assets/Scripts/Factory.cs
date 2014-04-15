@@ -17,7 +17,7 @@ public class Factory : MonoBehaviour {
 
 	}
 	
-//	// Update is called once per frame
+	// Update is called once per frame
 //	void Update () {
 //		if ( Physics.Raycast (transform.position, 
 //		// If mouse clicked on it, subtract current health by 1
